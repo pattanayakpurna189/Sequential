@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Applications"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="SupportFiles/Extent_Jars/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="SupportFiles/Extent_Jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="SupportFiles/Extent_Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="SupportFiles/Extent_Jars/extentreports-3.1.5-sources.jar"/>
+	<classpathentry kind="lib" path="SupportFiles/Extent_Jars/extentreports-3.1.5.jar"/>
+	<classpathentry kind="lib" path="SupportFiles/Extent_Jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="SupportFiles/Extent_Jars/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="SupportFiles/Extent_Jars/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="SupportFiles/Extent_Jars/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="SupportFiles/Extent_Jars/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="SupportFiles/Extent_Jars/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="SupportFiles/Extent_Jars/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="SupportFiles/Extent_Jars/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
